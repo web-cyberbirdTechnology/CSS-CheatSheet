@@ -1,5 +1,70 @@
 # CSS-CheatSheet
 
-1. CSS Syntax
-  CSS er Syntax 3 vabe bivokto
-3. 
+1. CSS Syntax / CSS Format. ( সি এস এস এর সিনট্যাক্স )
+2. Types Of CSS. ( সি এস এস এর প্রকারভেদ )
+3. Multiple CSS. ( অনেক গুলো  সি এস এস ফাইল কিভাবে ব্যাবহার করতে হয়। )
+4. CSS Comments. (কিভাবে কমেন্ট করতে হয়)।
+5. Class Selector. ( ক্লাস সিলেক্টর )।
+6. Use Multiple Class. ( একাধিক ক্লাস নেম ব্যাবহার করা )।
+7. ID Selector. ( আইডি সিলেক্টর )।
+8. Use Class And ID Both in One Tag. ( ক্লাস ও আইডি একসাথে ব্যাবহার )।
+9. Difference Between Class & ID. ( ক্লাস এবং আইডির মধ্যে পার্থক্য )।
+10. Usage of Pseudo Class. ( সুডো ক্লাসের ব্যাবহার )।
+11. Use Background Color. (ব্যাকগ্রাউন্ড কালারের ব্যাবহার।)
+12. Use Background Image. (ব্যাকগ্রাউন্ড ইমেজ ব্যাবহার করা। )
+13. Usage Of Background Position, Background Repeat And Background All Property. ( ব্যাকগ্রাউন্ড ইমেজের সকল প্রপার্টি ব্যাবহার। )
+14. Fixed Background Image. (ব্যাকগ্রাউন্ড ইমেজ ফিক্সড করা )
+15. Set Position Of Background Image. ( ব্যাকগ্রাউন্ড ইমেজের পজিশন ঠিক করা )
+16. Usage % as BAckground Position. ( ব্যাকগ্রাউন্ড ইমেজের পজিশনে পারসেন্ট ব্যাবহার করা )
+17. Change Text Color. ( টেক্সটের কালার চেঞ্জ করা। )
+18. Use Text Alignment. ( টেক্সট এলাইনমেনট ব্যাবহার করা। )
+19. Use Text Decoration. ( টেক্সট ডেকোরেশন ব্যাবহার করা। )
+20. Use Text Indentation. ( টেক্সট ইনডেনটেশন। )
+21. Use Character Spacing. ( প্রতিটা ওয়ার্ডে স্পেসিং ব্যাবহার করা। )
+22. Use Line Spacing. ( লাইনের উপরে নিচে স্পেসিং করা। )
+23. Word Spacing ( As Like As Character Spacing ).
+24. Change Font Family. ( ফন্ট ফেমিলি চেঞ্জ করা। )
+25. Styling link tag by CSS. ( লিংক ট্যাগ স্টাইল করা। )
+26. Styling UL & OL By CSS. ( অর্ডার এবং আনঅর্ডার লিস্ট স্টাইল করা। )
+27. Styling a Table By CSS. ( টেবিল স্টাইল করা। ) 
+28. Use CSS Float. ( সি এস এস ফ্লোটের ব্যাবহার। )
+29. Use All Display Property in CSS. ( সকল ডিসপ্লে প্রপার্টি ব্যাবহার করা। )
+30. Use Block And Inline Property. ( ব্লক এবং ইনলাইন প্রপার্টি ব্যাবহার করা।)
+31. Make a Navbar By CSS. ( সি এস এস দিয়ে একটা সুন্দর ন্যাভবার বানানো। )
+32. Use Border all Property ( Border Color, Border Width, Border Style) in CSS. ( বরডারের সকল প্রপার্টি ভ্যালু ব্যাবহার করা। )
+33. Use Outine All Property in CSS. ( আউটলাইনের সকল প্রপার্টি ভ্যালু ব্যাবহার করা। )
+34. Use Margin. ( মারজিন ব্যাবহার করা। )
+35. Use Padding in CSS. ( প্যাডিং ব্যাবহার করা। )
+36. Use Box Sizing And Box Model. ( বক্স সাইজিং এবং বক্স মডেল ব্যাবহার করা। )
+37. Make an Awesome Table with CSS. ( সি এস এস দিয়ে একটা টেবিলের ডিজাইন করা। )
+38. Nesting (Child) Selector. ( নেসটিং ট্যাগ সিলেক্ট করা। )
+39. Use Height, Max Height, And Min Height. ( হাইট, মিন হাইট, মাক্স হাইট ব্যাবহার করা। )
+40. Use Width, max width, And Min Width. ( উইদ, মিন উইদ, মাক্স উইদ ব্যাবহার করা। )
+41. CSS Positioning (Absolute, Relative, Fixed, Static, Sticky). ( সি এস এস পজিশনের সকল প্রপার্টি ব্যাবহার করা। )
+42. Overlapping Elements & Use Z Index. ( ইলিমেনট ওভার লেপিং করা এবং জেড ইনডেক্স ব্যাবহার করা। )
+43. Use Overflow. ( অভারফ্লো ব্যাবহার করা। )
+44. Change All Cursor Types. ( কার্সর চেঞ্জ করা। ৩/৪ রকমের করা। )
+45. Hide Any Elements in CSS. ( সি এস এস দিয়ে কোন ইলিমেনট হাইড করা। )
+46. Change the First Letter Color of a Paragraph Tag. ( একটা পেরাগ্রাপ ট্যাগের  প্রথম অক্ষরের কালার চেঞ্জ করা এবং বড় করা। )
+47. Center a div, Tag By Margin. ( মারজিন দিয়ে একটা ডিভ, এবং ট্যাগ সেনটার করা। )
+48. Center a div by Position Property. ( পজিশন দিয়ে একটা ডিভ সেনটার করা। )
+49. Center a div by Flex Property. ( ফ্লেক্স দিয়ে একটা ডিভ সেনটার করা। )
+50. Make an Image Gallery. ( একটা ইমেজ গেলারি বানানো। যেখানে অনেকগুলো ইমেজ থাকবে। )
+51. Apply Hover Effects. ( হোভার, একটিভ, ফোকাস, ভিজিটেড ব্যাবহার করা। )
+52. Use After & Before Pseudo Element. ( আফটার এবং বিফোর সুডো ইলিমেনট ব্যাবহার করা। )
+53. Difference Between Pseud Class And Elements. ( সুডো ক্লাস এবং সুডো ইলিমেনটের পার্থক্য বুঝা। )
+54. Change Text Effect (Text-Shadow). ( টেক্সট ইফেক্ট চেঞ্জ করা। )
+55. Change Color By Color Name, By Hexadecimal Code, And By RGB Value. ( কালারের নাম দিয়ে, হেক্স কোড দিয়ে, আর জি বি ভ্যালু দিয়ে কালার পরিবর্তন করা। )
+56. Use Flex All Property. ( Flex Column, Justify-content, Justify-Items, Align Items, Row Gap, Column Gap ). ( সবথেকে ইম্পরট্যান্ট ফ্লেক্স লেআউট ব্যাবহার করা। ফ্লেক্স এর সকল প্রপার্টি ব্যাবহার করা। এটা কয়েকভাবে প্রাকটিস করবেন। )
+57. Use Grid All Property. (PLace Items, place Content) ( আরেকটা ইম্পরট্যান্ট প্রপার্টি গ্রিড লেআউট ব্যাবহার করা। গ্রিড এর সকল প্রপার্টি ব্যাবহার করা। এটাও কয়েকভাবে প্রাকটিস করবেন। )
+58. Use Gradient Color in Two Ways. ( ২ ভাবে গ্রাডিয়েনট কালার ব্যাবহার করা। )
+59. Use Transform & Transitions. ( টরান্সফর্ম এবং টরানজিশন ব্যাবহার করা। ভালভাবে বুঝা। )
+60. Make an Animation with KeyFrames. ( কি ফ্রেম দিয়ে এনিমেশন বানানো। এবং বুঝা।)
+61. Make Responsive in various breakpoints with media queries. ( মিডিয়া কুয়েরি দিয়ে ৩/৪ টা ব্রেকপয়েন্ট ব্যাবহার করে বিভিন্ন ডিভাইসের জন্য রেসপনসিভ করা। )
+62. Apply Style On All Input Types. ( সকল টাইপের ইনপুটে সিএসএস ব্যাবহার করা। )
+63. Make a login, sign up, and Contact form with CSS. ( সিএসএস দিয়ে লগইন, সাইন আপ, এবং কনটাক ফর্ম বানানো। এবং সুন্দর ডিজাইন করা। )
+64. Apply Style On a Button. ( সিএসএস দিয়ে একটা বাটনের স্টাইল করা। )
+65. Apply Opacity. ( সিএসএস দিয়ে অপাসিটি কমানো বাড়ানো। )
+
+
+### All Rights Reserved By CYBERBIRD TECHNOLOGIES
